@@ -165,4 +165,4 @@ General rule worth keeping: **when an error channel is available, always try to 
 
 ---
 
-*Part of a series documenting AI agent security CTF labs on [ARKX](https://ctf.arkx.ninja). Next: [Level 6 — The Shape Shifter](./02-shape-shifter.md).*
+*Part of a series documenting AI agent security CTF labs on [ARKX](https://ctf.arkx.ninja). Next: [Level 6 — The Shape Shifter](https://github.com/collinschizaram1-ctrl/ARKX-AI-Agent-Security-CTF/blob/main/02-shape-shifter.md).*
