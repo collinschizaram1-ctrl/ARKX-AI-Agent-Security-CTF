@@ -122,4 +122,4 @@ This isn't a CTF-only concern. YAML is everywhere in real infrastructure — Kub
 
 ---
 
-*Part of a series documenting AI agent security CTF labs on [ARKX](https://ctf.arkx.ninja). Previous: [Level 5 — Bad Robot](./01-bad-robot.md).*
+*Part of a series documenting AI agent security CTF labs on [ARKX](https://ctf.arkx.ninja). Previous: [Level 5 — Bad Robot](https://github.com/collinschizaram1-ctrl/ARKX-AI-Agent-Security-CTF/blob/main/level%205%20bad%20robot.md).*
